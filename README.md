@@ -4,8 +4,7 @@ Visor 3D en C++ y OpenGL 3.3 que carga modelos glTF y muestra un tiburón nadand
 
 **Autor: Santiago Castro Puentes 6014317
 Curso:** Computación Grafica - Parcial
-**Video explicativo:** https://youtu.be/k4UkPDdsQ8w
-
+**Video explicativo:** https://youtu.be/xg8V-8DU1Mw
 ## Características
 
 * Carga de modelos **glTF 2.0** (`.gltf` + `.bin` + texturas) con TinyGLTF.
